@@ -22,3 +22,7 @@ My passion for coding began in my late teens, where I built websites and honed m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
