@@ -26,7 +26,6 @@ My passion for coding began in my late teens, where I built websites and honed m
 |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git"  width="55" height="55"/>|
 
 ---
-
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rinerte&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+    <img src="https://streak-stats.demolab.com?user=rinerte&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=170" alt="GitHub Streak" />
 </p>
