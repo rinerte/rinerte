@@ -1,3 +1,4 @@
+
 # About ✨ Rinerte ✨
 
 Hello there 👋 welcome to my GitHub profile!
@@ -19,3 +20,6 @@ My passion for coding began in my late teens, where I built websites and honed m
 | ASP.NET Core | Entity Framework | React | MS SQL | REST |VS Studio | Docker |
 |----------|----------|----------|----------|----------|----------|----------|
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rinerte&theme=dark&card_width=1200)](https://git.io/streak-stats)
+
